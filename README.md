@@ -3,8 +3,12 @@
 
 
 ### Hi there 👋
-#### I'm Mohamed Hamed, __Full-Stack developer__ with extensive knowledge working in web and mobile development, delivering quality work.
+#### I'm Mohamed Hamed, __Full-Stack developer__ with extensive knowledge and years of experience, working in web and mobile development, delivering quality work.
 #### I am someone who's passionate about learning new things everyday.
+
+     - **Creative mindset**
+     - **Team work**
+     - **Punctuality**
 
 Here are some ideas to get you started:
 
