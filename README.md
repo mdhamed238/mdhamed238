@@ -81,7 +81,7 @@ Here are some ideas to get you started:
     </a>
     <!-- Next.js -->
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
              alt="next.js" width="40" height="40" />
     </a>
     <!-- Node.js -->
