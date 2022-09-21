@@ -1,26 +1,31 @@
-<p align='center'>
-    <a href="https://spotify-recently-played-readme.vercel.app/api?user=31r2llf3nbejagocguypnqjouo5u"
-       target="https://open.spotify.com/user/31r2llf3nbejagocguypnqjouo5u"><img
-             src="https://spotify-recently-played-readme.vercel.app/api?user=31r2llf3nbejagocguypnqjouo5u&unique=true&count=1&width=300" /></a>
-
-</p>
 <img src="https://user-images.githubusercontent.com/83286825/190402802-358dfa0b-5658-447b-93fc-426583d0c232.png"
      width=50% height=50% align="right">
 
 
+### Hi there 👋
 
-- 🔭 I’m currently working on **Mobile apps using React Native**
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on **Web apps using Next.js**
+- 🌱 I’m currently learning about **Mobile apps using React Native**
+- 👯 I’m looking to collaborate on **MERN Stack projects**
+- 💬 Ask me about web & mobile development
+
+
+<!-- - 🔭 I’m currently working on **Mobile apps using React Native**
 
 - 🌱 I’m currently learning about **Mobile apps using React Native**
 
-- 👨‍💻 My key projects are available at [my website](https://mdhamed.vercel.app.app/)
+- 👨‍💻 My key projects are available at [my website](https://mdhamed.vercel.app.app/) -->
 
 <br>
 <br>
 <h2 align="left">Connect with me</h2>
 
 <p align="center">
-    <a href="https://twitter.com/mdhamed238" target="blank"><img align="center"
+    <a href="https://twitter.com/mdhamed238" target="blank">
+        <img align="center"
              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
              alt="MO Hamed" height="30" width="40" />
     </a>
@@ -28,13 +33,16 @@
         <img align="center"
              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
              alt="MO Hamed" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/17393492" target="blank"><img align="center"
+    <a href="https://stackoverflow.com/users/15681812/mo-hamed" target="blank">
+        <img align="center"
              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-             alt="17393492" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/profile.php?id=100061233910587" target="blank"><img align="center"
+             alt="MO Hamed" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/profile.php?id=100061233910587" target="blank">
+        <img align="center"
              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
              alt="MO Hamed" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/mdhamed_238/" target="blank"><img align="center"
+    <a href="https://www.instagram.com/mdhamed_238/" target="blank">
+        <img align="center"
              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
              alt="MO Hamed" height="30" width="40" /></a>
 </p>
@@ -56,24 +64,55 @@
              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
              alt="javascript" width="40" height="40" />
     </a>
+    <!-- TailwindCSS -->
+    <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
+             alt="tailwindcss" width="40" height="40" />
+    </a>
     <!-- Sass -->
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
              width="40" height="40" />
+    </a>
+    <!-- React.js -->
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+             alt="next.js" width="40" height="40" />
+    </a>
+    <!-- Next.js -->
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+             alt="next.js" width="40" height="40" />
+    </a>
+    <!-- Node.js -->
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+             alt="node.js" width="40" height="40" />
+    </a>
+    <!-- MongoDB -->
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+             alt="mongodb" width="40" height="40" />
+    </a>
+    <!-- Firebase -->
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"
+             alt="firebase" width="40" height="40" />
+    </a>
     </a>
     <!-- Git -->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a>
-    <!-- Node.js -->
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-             alt="nodejs" width="40" height="40" />
+    <!-- Docker -->
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+             alt="docker" width="40" height="40" />
     </a>
-    <!-- MySQL -->
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-             alt="mysql" width="40" height="40" />
+    <!-- Linux -->
+    <a href="https://linux.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+             alt="linux" width="40" height="40" />
     </a>
 </p>
 <br>
@@ -86,4 +125,4 @@
 
 ------
 Credit: [mdhamed238](https://github.com/mdhamed238)
-Last edited on: 20/09/2022
+Last edited on: 21/09/2022
