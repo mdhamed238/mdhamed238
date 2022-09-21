@@ -5,13 +5,17 @@
 ### Hi there 👋
 #### I'm Mohamed Hamed, __Full-Stack developer__ with extensive knowledge and years of experience, working in web and mobile development, delivering quality work.
 #### I am someone who's passionate about learning new things everyday.
-    return ([ 
-          Creative mindset,
-          Team work,
-          Communication,
-          Punctuality
-     ])
 
+```js
+return ([ 
+     "Creative mindset",
+     "Team work",
+     "Communication",
+     "Punctuality"
+])
+```
+
+    
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Web apps using Next.js**
