@@ -1,9 +1,10 @@
 <img src="https://user-images.githubusercontent.com/83286825/190402802-358dfa0b-5658-447b-93fc-426583d0c232.png"
-     width=50% height=50% align="right">
+     width=50% height=50% align="right" style="border-radius: 8px;">
 
 
 ### Hi there 👋
-
+#### I'm Mohamed Hamed, __Full-Stack developer__ with extensive knowledge working in web and mobile development, delivering quality work.
+#### I am someone who's passionate about learning new things everyday.
 
 Here are some ideas to get you started:
 
@@ -11,13 +12,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about **Mobile apps using React Native**
 - 👯 I’m looking to collaborate on **MERN Stack projects**
 - 💬 Ask me about web & mobile development
+- 👨‍💻 My key projects are available at [my website](https://mdhamed.vercel.app.app/)
 
-
-<!-- - 🔭 I’m currently working on **Mobile apps using React Native**
-
-- 🌱 I’m currently learning about **Mobile apps using React Native**
-
-- 👨‍💻 My key projects are available at [my website](https://mdhamed.vercel.app.app/) -->
 
 <br>
 <br>
@@ -86,12 +82,12 @@ Here are some ideas to get you started:
     </a>
     <!-- Node.js -->
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
              alt="node.js" width="40" height="40" />
     </a>
     <!-- MongoDB -->
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
              alt="mongodb" width="40" height="40" />
     </a>
     <!-- Firebase -->
