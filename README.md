@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/83286825/190402802-358dfa0b-5658-447b-93fc-426583d0c232.png"
+<img src="https://avatars.githubusercontent.com/u/111397645?v=4"
      width=45% align="right">
 
 <h1 align="center">Hi there 👋, I'm Mohamed Hamed</h1>
@@ -124,17 +124,17 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-    &nbsp;<img
+    <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=mdhamed238&show_icons=true&locale=en"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=mdhamed238"
         alt="abderahmanvt7"
     />
 </p>
 
 <p>
-    <img
+    &nbsp;<img
         align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=mdhamed238"
+        src="https://github-readme-stats.vercel.app/api?username=mdhamed238&show_icons=true&locale=en"
         alt="abderahmanvt7"
     />
 </p>
