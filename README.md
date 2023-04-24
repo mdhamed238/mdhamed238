@@ -1,35 +1,33 @@
 <img src="https://user-images.githubusercontent.com/83286825/190402802-358dfa0b-5658-447b-93fc-426583d0c232.png"
-     width=45% height=50% align="right" style="border-radius: 8px;">
+     width=45% align="right">
 
+<h1 align="center">Hi there 👋, I'm Mohamed Hamed</h1>
+<h3 align="center">A Full-Stack Developer</h3>
+<p align="left"> 
+     <img
+         src="https://komarev.com/ghpvc/?username=mdhamed238&label=Profile%20views&color=0e75b6&style=flat"
+         alt="mdhamed238"
+     /> 
+</p>
+<p align="left">
+    <a href="https://twitter.com/mdhamed238" target="_blank"
+        ><img
+            src="https://img.shields.io/twitter/follow/mdhamed238?logo=twitter&style=for-the-badge"
+            alt="mdhamed238"
+    /></a>
+</p>
 
-### Hi there 👋
-#### I'm Mohamed Hamed, __Full-Stack developer__ with extensive knowledge and years of experience, working in web and mobile development, delivering quality work.
-#### I am someone who's passionate about learning new things everyday.
-
-```js
-return ([ 
-     "Creative mindset",
-     "Team work",
-     "Communication",
-     "Punctuality"
-])
-```
-
-    
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Web apps using Next.js**
 - 🌱 I’m currently learning about **Mobile apps using React Native**
 - 👯 I’m looking to collaborate on **MERN Stack projects**
-- 💬 Ask me about web & mobile development
+- 💬 Ask me about **React, Next.js, Express.js**
 - 👨‍💻 My key projects are available at [my website](https://mdhamed.vercel.app/)
+- 📫 How to reach me **mdhamed0238@gmail.com**
 
-
-<br>
-<br>
-<h2 align="left">Connect with me</h2>
-
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
     <a href="https://twitter.com/mdhamed238" target="blank">
         <img align="center"
              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -52,9 +50,7 @@ Here are some ideas to get you started:
              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
              alt="MO Hamed" height="30" width="40" /></a>
 </p>
-<br>
-<br>
-<h2 align="left">Languages and Tools</h2>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
     <!-- HTML -->
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="html5"> <img
@@ -126,14 +122,27 @@ Here are some ideas to get you started:
              alt="linux" width="40" height="40" />
     </a>
 </p>
-<br>
-<br>
-<hr>
-<p align="center"> <img
-         src="https://komarev.com/ghpvc/?username=mdhamed238&label=Profile%20views&color=0e75b6&style=flat"
-         alt="mdhamed238" /> </p>
 
+<p>
+    &nbsp;<img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api?username=mdhamed238&show_icons=true&locale=en"
+        alt="abderahmanvt7"
+    />
+</p>
 
-------
-Credit: [mdhamed238](https://github.com/mdhamed238)
-Last edited on: 21/09/2022
+<p>
+    <img
+        align="center"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=mdhamed238"
+        alt="abderahmanvt7"
+    />
+</p>
+
+<p>
+    <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=mdhamed238&show_icons=true&locale=en&layout=compact"
+        alt="abderahmanvt7"
+    />
+</p>
