@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **MERN Stack projects**
 - 💬 Ask me about **React, Next.js, Express.js**
 - 👨‍💻 My key projects are available at [my website](https://mdhamed.vercel.app/)
-- 📫 How to reach me **mdhamed0238@gmail.com**
+- 📫 How to reach me **mdhamed.off@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
