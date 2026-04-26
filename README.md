@@ -1,12 +1,12 @@
-# Hi 👋, I'm Mohamed Hamed
+# Mohamed Hamed 👋
+### Building reliable software & contributing to open source
+**Full-Stack Software Engineer | Open Source Contributor @PMD · @Checkstyle · @WeasyPrint**
 
 <div align="center">
-  
-### Software Engineer | Java & Python | Open Source Contributor
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mdhamed.dev-blue?style=flat-square&logo=google-chrome)](https://www.mdhamed.dev)
-[![Email](https://img.shields.io/badge/Email-mdhamed.off%40gmail.com-red?style=flat-square&logo=gmail)](mailto:mdhamed.off@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mdhamed238-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/mdhamed238)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mdhamed.dev-blue?style=for-the-badge&logo=google-chrome)](https://www.mdhamed.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mdhamed238)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:mdhamed.off@gmail.com)
 
 </div>
 
@@ -14,71 +14,86 @@
 
 ## About Me
 
-I'm a software engineer with a keen interest in **backend systems**, **static code analysis**, and **open source**. Currently diving deep into system design, database internals, and query optimization.
+Full-stack software engineer focused on **backend systems**, **clean code**, and **open source developer tooling**. Currently finishing a Master's in Software Engineering at Université Lyon 1, while working at LCL (Crédit Agricole group) on Java/Spring Boot microservices used daily by thousands of advisors.
 
-### Current Focus
-
-- 🔧 **Open Source:** Contributing to [PMD](https://github.com/pmd/pmd), [Talawa API](https://github.com/PalisadoesFoundation/talawa-api), [WeasyPrint](https://github.com/Kozea/WeasyPrint)
-- 🌱 **Learning:** System Design, Database Internals, Distributed Systems
-- 💻 **Stack:** Java/Spring Boot, Python/FastAPI, TypeScript, PostgreSQL, Docker
-- 🎨 **Interests:** Static Code Analysis, Monitoring & Observability, CI/CD
-- 💬 **Ask me about:** REST APIs, System Design, Web Development
+I contribute to static analysis tools and HTML-to-PDF rendering engines — areas where I bridge my interest in language specifications and software reliability
 
 ---
 
-## Tech Stack
+## 🚀 Open Source Contributions
 
-### Backend
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+Passionate about developer tooling and code quality. Focused on static analysis and rendering engines used by millions of developers worldwide.
 
-### Frontend
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### Tools & Testing
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+| Project | Focus | Highlights |
+| :--- | :--- | :--- |
+| **[PMD](https://github.com/pmd/pmd/pulls?q=is%3Apr+author%3Amdhamed238)** | Static Analysis | Fixed Java parser edge cases for modern language constructs. Merged in `v7.20.0` & `v7.21.0`. |
+| **[Checkstyle](https://github.com/checkstyle/checkstyle/pulls/mdhamed238)** | Linting | Fixed `IndentationCheck` bugs & improved violation messages ([#19684](https://github.com/checkstyle/checkstyle/pull/19684), [#18972](https://github.com/checkstyle/checkstyle/pull/18972)). |
+| **[WeasyPrint](https://github.com/Kozea/WeasyPrint/pull/2590)** | HTML→PDF Rendering | Implemented language-aware CSS `text-transform` (TR, GR, LT, AZ). Merged in `v68.0`. |
 
 ---
 
-## GitHub Stats
+## 🔬 Featured Projects
+
+<details>
+<summary><b>MiniC-RiscV Toolchain</b> — Compiler Construction</summary>
+<br>
+
+- **Built:** Full compiler pipeline from scratch — lexer/parser (ANTLR4) → static type checker → interpreter → RISC-V assembly backend.
+- **Validated:** Automated test suite comparing interpreter output against `gcc`, including undefined behavior edge cases.
+- **Stack:** `Python` · `ANTLR4` · `RISC-V Assembly` · `Docker`
+- **Key learning:** AST manipulation, static typing systems, and low-level code generation.
+
+🔗 [github.com/mdhamed238/MiniC-RV-Toolchain](https://github.com/mdhamed238/MiniC-RV-Toolchain)
+</details>
+
+<details>
+<summary><b>PFAS Data Platform</b> — Geospatial Analysis of Environmental Pollutants</summary>
+<br>
+
+*Research project — Université Lyon 1 · LIRIS*
+- **Built:** Pipeline to cross-reference PFAS chemical contamination data with French socio-demographic indicators (50,000 INSEE IRIS zones).
+- **Enriched:** 182 chemical substances via PubChem API (98.35% success rate), with geospatial indexing (GeoJSON) on 10,000+ records.
+- **Stack:** `MongoDB` · `Flask` · `Leaflet.js` · `PyMongo`
+
+🔗 [github.com/mdhamed238/pfas_project](https://github.com/mdhamed238/pfas_project)
+</details>
+
+<details>
+<summary><b>Cloud Image Processing API</b> — Async Image Transformation Service</summary>
+<br>
+
+- **Built:** Stateless REST API with async processing, Redis caching to eliminate redundant computation, and scalable object storage on Cloudflare R2.
+- **Stack:** `FastAPI` · `Redis` · `Docker` · `JWT` · `GitHub Actions`
+
+🔗 [github.com/mdhamed238/cloud_image_api](https://github.com/mdhamed238/cloud_image_api)
+</details>
+
+---
+
+## 🛠 Expertise
+
+**Core languages & frameworks**
+Java (Spring Boot · Spring WebFlux) · Python (FastAPI) · TypeScript · Angular · React
+
+**Data**
+PostgreSQL · MongoDB · Redis · MariaDB
+
+**Quality & Testing**
+Clean Code · Design Patterns · PMD · Checkstyle · Cypress (E2E) · JUnit · Jest
+
+**DevOps & Cloud**
+Docker · GitLab CI/CD · GitHub Actions · Amazon S3 · Cloudflare R2 · Linux
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdhamed238&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhamed238&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
 ---
-
-## What I'm Looking For
-
-- 🤝 **Collaboration** on system design and software architecture projects
-- 📖 **Learning opportunities** in distributed systems and software engineering
-- 🎯 **Open source contributions** in developer tooling, CI/CD, and static analysis
-
----
-
-## Let's Connect
-
-Feel free to reach out if you want to collaborate on projects, discuss tech, or just chat about software development!
 
 <div align="center">
 
