@@ -14,9 +14,14 @@
 
 ## About Me
 
-Full-stack software engineer focused on **backend systems**, **clean code**, and **open source developer tooling**. Currently finishing a Master's in Software Engineering at Université Lyon 1, while working at LCL (Crédit Agricole group) on Java/Spring Boot microservices used daily by thousands of advisors.
+Full-stack engineer working across **Java/Spring Boot**, **Angular/React**, **TypeScript**, and **Python** — building REST APIs, microservices, and the frontends that consume them. I care about code quality and reliability, which is what pulled me toward static analysis and rendering engines: I contribute to open source projects like PMD, Checkstyle, and WeasyPrint on the side.
 
-I contribute to static analysis tools and HTML-to-PDF rendering engines — areas where I bridge my interest in language specifications and software reliability
+## 🔍 What I'm Into
+
+- **Static analysis & linters** — how tools like PMD and Checkstyle parse, model, and flag code
+- **Rendering engines** — HTML/CSS-to-PDF pipelines and spec-compliant text handling (WeasyPrint)
+- **Compilers & language tooling** — lexers, parsers, type checkers, and codegen
+- **Clean, well-tested backend systems** — API design, async processing, and CI/CD
 
 ---
 
@@ -44,18 +49,6 @@ Passionate about developer tooling and code quality. Focused on static analysis 
 - **Key learning:** AST manipulation, static typing systems, and low-level code generation.
 
 🔗 [github.com/mdhamed238/MiniC-RV-Toolchain](https://github.com/mdhamed238/MiniC-RV-Toolchain)
-</details>
-
-<details>
-<summary><b>PFAS Data Platform</b> — Geospatial Analysis of Environmental Pollutants</summary>
-<br>
-
-*Research project — Université Lyon 1 · LIRIS*
-- **Built:** Pipeline to cross-reference PFAS chemical contamination data with French socio-demographic indicators (50,000 INSEE IRIS zones).
-- **Enriched:** 182 chemical substances via PubChem API (98.35% success rate), with geospatial indexing (GeoJSON) on 10,000+ records.
-- **Stack:** `MongoDB` · `Flask` · `Leaflet.js` · `PyMongo`
-
-🔗 [github.com/mdhamed238/pfas_project](https://github.com/mdhamed238/pfas_project)
 </details>
 
 <details>
